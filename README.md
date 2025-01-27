@@ -21,7 +21,7 @@ I'm a passionate Full Stack Web Developer and MIS Specialist with a strong backg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsunilkashyap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
-- **Email:** [kumarsunilkashyap@example.com](mailto:sitapuruniversal.com)
+- **Email:** [Sunil kumar Kashyap](mailto:sitapuruniversal@gmail.com)
 - **LinkedIn:** [Sunil Kumar Kashyap](www.linkedin.com/in/sunil-kumar-kashyap)
 
 
@@ -57,4 +57,4 @@ I'm currently enhancing my skills in cloud computing and exploring advanced conc
 I love exploring new places and cultures, and I'm a huge fan of coding and make interactive wev page
 
 ---
-⭐️ From [Sunil Kumar](https://github.com/kumarsunilkashyap)
+⭐️ From [Sunil Kumar Kashyap](https://github.com/kumarsunilkashyap)

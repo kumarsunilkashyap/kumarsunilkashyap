@@ -22,7 +22,8 @@ I'm a passionate Full Stack Web Developer and MIS Specialist with a strong backg
 
 ## 📫 How to reach me
 - **Email:** [Sunil kumar Kashyap](mailto:sitapuruniversal@gmail.com)
-- **LinkedIn:** [Sunil Kumar Kashyap](https://www.linkedin.com/in/sunil-kumar-kashyap)
+- **LinkedIn:** [Sunil Kumar Kashyap](www.linkedin.com/in/
+sunil-kumar-kashyap)
 
 
 ## 🌱 What I'm currently learning

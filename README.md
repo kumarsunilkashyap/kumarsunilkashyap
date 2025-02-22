@@ -45,7 +45,6 @@ I'm currently enhancing my skills in Advanced Excel and Power BI Dashboard advan
 - **Demo:** [Live Demo](https://kumarsunilkashyap.github.io/My_Portfoliyo)
 - **Code:** [GitHub Repository](https://github.com/kumarsunilkashyap/My_Portfoliyo)
 
-## 🎯 Projects & Portfolio
 ### Project 2: Website
 - **Description:** Developed a personal website, using tailwind css add features merge pdf split pdf compress pdf and many more UI .
 - **Technologies:** Tailwind css, Html

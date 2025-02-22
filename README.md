@@ -45,6 +45,13 @@ I'm currently enhancing my skills in Advanced Excel and Power BI Dashboard advan
 - **Demo:** [Live Demo](https://kumarsunilkashyap.github.io/My_Portfoliyo)
 - **Code:** [GitHub Repository](https://github.com/kumarsunilkashyap/My_Portfoliyo)
 
+## 🎯 Projects & Portfolio
+### Project 2: Website
+- **Description:** Developed a personal website, using tailwind css.
+- **Technologies:** Tailwind css, Html
+- **Demo:** [Live Demo](https://kumarsunilkashyap.github.io/My_Portfoliyo)
+- **Code:** [GitHub Repository](https://github.com/kumarsunilkashyap/My_Portfoliyo)
+
 ### Project 2: MIS Dashboard
 - **Description:** This interactive sales dashboard provides a comprehensive analysis of Super Store’s sales data across multiple dimensions, helping businesses make data-driven decisions. The dashboard includes various key performance indicators (KPIs), charts, and filters for in-depth insights.
 - **Technologies:** Power Query Editor, Advanced Excel, Pivot Table
